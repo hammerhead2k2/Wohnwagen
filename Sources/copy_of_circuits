@@ -1,4 +1,5 @@
-
+// Start on github 11.02.2017
+// 
 #include <Servo.h> // Funktion für Servo Ansteuerung einbinden
 #include <LiquidCrystal.h> // Funktion für LCD Ansteuerung einbinden
 LiquidCrystal lcd(12, 11, 10, 7, 6, 5, 4); //An diesen Pins wurde das LCD Display angeschlossen
